@@ -17,6 +17,7 @@
 <div align="center" >
  
  🌱 I’m currently learning **Laravel, React JS, and Django**
+ 
 ⚡ Fun fact **Companies can’t hire enough coders**
 
  </div>
