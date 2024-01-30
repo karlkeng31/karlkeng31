@@ -2,7 +2,6 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=30&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+There+%F0%9F%91%8B;I'm+Karl+Kenneth+Garcia" alt="Typing SVG" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=30&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Thank+you+for+visiting+my+github+account!" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">A passionate software developer</h3>
