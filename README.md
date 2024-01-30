@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=karlkeng31.karlkeng31" />
 
 <h1 align="center">
