@@ -63,5 +63,5 @@
 <hr/>
 <br>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=30&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Thank+you+for+visiting+my+github+account!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=30&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Thank+you+for+visiting;my+github+account!" alt="Typing SVG" />
 </h1>
