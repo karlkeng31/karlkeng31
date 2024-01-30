@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=karlkeng31.karlkeng31" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=SourceCodePro&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=30&duration=3000&pause=1000&random=false&width=435&lines=Hi%2C+There+%F0%9F%91%8B;I'm+Karl+Kenneth+Garcia" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
