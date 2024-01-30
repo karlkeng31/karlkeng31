@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=karlkeng31.karlkeng31" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=SourceCodePro&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,javascript,jquery,php,python,react,laravel" />
-    <img src="https://skillicons.dev/icons?i=git,sql,mysql,mongodb,github,tailwindcss,java,nodejs,expressjs,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=git,wordpress,mysql,mongodb,github,tailwindcss,java,nodejs,expressjs,figma" /><br>
 </div>
 
 <br/>
