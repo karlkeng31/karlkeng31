@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=30&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+There+%F0%9F%91%8B;I'm+Karl+Kenneth+Garcia" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate software developer</h3>
 
 <br/>
 
@@ -12,11 +12,9 @@
  
  🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Laravel, React JS, Djangot**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/karlkeng31/karlkeng31/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **Companies can’t hire enough coders**
 
  </div>
  
