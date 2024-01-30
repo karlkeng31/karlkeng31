@@ -2,6 +2,7 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=30&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+There+%F0%9F%91%8B;I'm+Karl+Kenneth+Garcia" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=30&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Thank+you+for+visiting+my+github+account!" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">A passionate software developer</h3>
@@ -59,10 +60,8 @@
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=karlkeng31&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karlkeng31&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-<!-- <div align=center>
-  <img height="200" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=karlkeng31&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img height="200" width="300" src="https://github-readme-stats.vercel.app/api?username=karlkeng31&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img height="200" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=karlkeng31&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div> -->
 <hr/>
+<br>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=30&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Thank+you+for+visiting+my+github+account!" alt="Typing SVG" />
+</h1>
