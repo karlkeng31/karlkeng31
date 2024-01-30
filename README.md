@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=30&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+There+%F0%9F%91%8B;I'm+Karl+Kenneth+Garcia" alt="Typing SVG" />
 </h1>
 
-<h3 align="center" style="font-family: monospace;">A passionate software developer</h3>
+<h3 align="center" style="font-family: monospace; color: aqua;">A passionate software developer</h3>
 
 <div align=center>
   <img src="https://camo.githubusercontent.com/f930a8781180df9ed9167f44be03b7c564ff2326b8ac4c30f5fb2398b5771d4b/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="streak stats"/>
